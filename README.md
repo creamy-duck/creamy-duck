@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hi, I'm Creamy_Duck!
+# 👋 Hi, I'm creamy_Duck!
 
 ### 💻 Full Stack Web Developer
 
