@@ -7,7 +7,8 @@
 <p>
   <em>🔭 Currently working on <a href="https://hexle.at">Hexle</a></em><br>
   <em>🚀 Passionate about building modern web applications</em><br>
-  <em>📧 Reach me at <a href="mailto:max@creamyduck.dev">max@creamyduck.dev</a></em>  
+  <em>📧 Reach me at <a href="mailto:max@creamyduck.dev">max@creamyduck.dev</a></em>
+  <em>🛜 My Website: <a href="https://creamyduck.dev">https://creamyduck.dev</a></em>
 </p>
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://dc.hexle.at)
